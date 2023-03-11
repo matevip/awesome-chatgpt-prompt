@@ -2,6 +2,8 @@
 [![Awesome ChatGPT Prompt](https://img.shields.io/badge/OpenAI-Awesome-39AE85?logo=openai)](https://ai.mate.vip/)
 [![AI images collections](https://raw.githubusercontent.com/matevip/awesome-chatgpt-prompt/main/assets/banner/ai-img.jpg)](#)
 
+English | [简体中文](./README-CN.md)
+
 ---
 
 ChatGPT is a large language model created by OpenAI that is trained on vast amounts of text data to generate human-like responses to natural language inputs. This guide is designed to help you get the most out of ChatGPT's capabilities by providing tips and examples for using prompts effectively.

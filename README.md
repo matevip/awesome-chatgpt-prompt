@@ -1,5 +1,6 @@
 # 👑 Awesome ChatGPT Prompt Guide
-[![Awesome ChatGPT Prompt](https://img.shields.io/badge/OpenAI-Awesome-39AE85?logo=openai)](https://ai.mate.vip/) 
+[![Awesome ChatGPT Prompt](https://img.shields.io/badge/OpenAI-Awesome-39AE85?logo=openai)](https://ai.mate.vip/)
+[![AI images collections](https://raw.githubusercontent.com/matevip/awesome-chatgpt-prompt/main/assets/banner/ai-img.jpg)](#)
 
 ---
 
